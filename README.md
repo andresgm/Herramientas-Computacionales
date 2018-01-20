@@ -22,9 +22,13 @@ jupyter notebook
 ```
 
  Otro programa para trabajar con Jupyter notebooks es [nteract](https://nteract.io/).
+ 
+ Finalmente, [Microsoft Azure Notebooks](https://notebooks.azure.com) puede ser util si quiere trabajar en linea. 
 
- # Algunos recursos para comenzar #
+# Algunos recursos para comenzar #
 
  * [Introducción a Python](http://nbviewer.jupyter.org/github/andresgm/Herramientas-Computacionales/blob/master/notebooks/00_Quick_Python_Intro.ipynb)
  * [Definición de Funciones en Python](https://github.com/andresgm/Herramientas-Computacionales/blob/master/notebooks/01_Defining_Function_in_Python.ipynb)
- * 
+ * [Numerical Tours in Python](www.numerical-tours.com/python/)
+ * [Kevin Slavin - How Algorithms Shape Our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
+
