@@ -1,13 +1,17 @@
 ---
 layout: default
+title: Herramientas Computacionales - IMEC3602 Semestre 201820
 ---
 
 ## Información del Curso ##
 
 **Horario**: lunes y miércoles 3:30 a 4:40 pm
+
 **Salón**: ML107
+
 **Profesor**: [Andrés González Mancera](http://andresgm.org)
-**Horario de atención**: martes 3 a 5 pm oficina ML704  
+
+**Horario de atención**: martes 3 a 5 pm oficina ML704
 
 
 ## Descripción del Curso ##
