@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Herramientas Computacionales - IMEC3602 Semestre 201820
+title: IMEC3602 Semestre 201820
 ---
 
 ## Información del Curso ##
