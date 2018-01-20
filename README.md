@@ -22,3 +22,9 @@ jupyter notebook
 ```
 
  Otro programa para trabajar con Jupyter notebooks es [nteract](https://nteract.io/).
+
+ # Algunos recursos para comenzar #
+
+ * [Introducción a Python](http://nbviewer.jupyter.org/github/andresgm/Herramientas-Computacionales/blob/master/notebooks/00_Quick_Python_Intro.ipynb)
+ * [Definición de Funciones en Python](https://github.com/andresgm/Herramientas-Computacionales/blob/master/notebooks/01_Defining_Function_in_Python.ipynb)
+ * 
