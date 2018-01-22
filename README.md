@@ -34,6 +34,7 @@ jupyter notebook
 * [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
 * [Microsoft Azure Notebooks](https://notebooks.azure.com)
 * [stack overflow](https://stackoverflow.com/)
+* [Atom](https://atom.io/)
 * [SciPy](https://www.scipy.org/)
 * [matplotlib](https://matplotlib.org/)
 * [Python For Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
