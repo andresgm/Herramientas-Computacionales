@@ -16,25 +16,24 @@ title: IMEC3602 Semestre 201820
 
 ## Descripción del Curso ##
 
-Este es un curso introductorio a las herramientas computacionales usadas en la solución de problemas de ingeniería.
+Los sistemas de cómputo se han convertido en herramientas básicas e indispensables para la práctica de la ingeniería moderna. El crecimiento de la capacidad de cómputo ha permitido el uso y desarrollo de nuevos algoritmos que están transformando cómo se hace ingeniería en el escenario mundial ofreciendo nuevos retos y oportunidades. Este es un curso exploratorio de las **herramientas computacionales** modernas relevantes a la práctica de la ingeniería.
 
-En la práctica de la ingeniería moderna la solución de problemas involucra el modelado matemático de sistemas complejos. Estos modelos son difíciles, si no imposibles, de resolver de manera analítica. Entonces se hace necesaria la utilización de herramientas computacionales y métodos numéricos para resolver de manera aproximada estos sistemas. Los métodos numéricos constituyen técnicas mediante las cuales es posible formular modelos matemáticos, de tal forma que puedan resolverse utilizando operaciones aritméticas en un computador.
+Este **no** es un curso de simulación computacional. Los temas del curso buscan ser relevantes para todo tipo de ingeniero.
 
-De igual manera, el desarrollo de experimentos con instrumentos modernos puede generar gran cantidad de datos, por ejemplo señales en el tiempo o imágenes, que deben ser procesadas y analizadas mediante métodos computacionales. En el curso se ejemplificará la necesidad de desarrollar métodos numéricos a través de la discusión de ejemplos aplicados.
+Este **no** es un curso de programación.
 
-Se discutirán los fundamentos y aspectos prácticos de la computación científica con un marco teórico adecuado más no excesivo. Se ilustrarán de manera concisa la implementación de algoritmos numéricos y se demostrarán las características y méritos relativos de métodos alternativos.
+Al finalizar el curso usted debe sentirse cómodo explorando las herramientas computacionales modernas y utilizándolas para su práctica profesional.
 
 ## Objetivos ##
 
-El objetivo principal del curso es desarrollar en el estudiante la habilidad para utilizar herramientas computacionales modernas para la solución de problemas prácticos en ingeniería.
+El objetivo principal del curso es desarrollar en el estudiante la habilidad y la actitud necesarias para utilizar herramientas computacionales modernas como apoyo para la solución de problemas prácticos en ingeniería.
 
 Los objetivos específicos son los siguientes:
 
-* Desarrollar habilidades intelectuales pertinentes al desarrollo e implementación de métodos numéricos para la solución de problemas de ingeniería.
-* Entrenar al estudiantes en la abstracción de problemas prácticos, su modelado matemático e implementación numérica.
-* Entrenar al estudiante en la programación de métodos numéricos en un lenguaje de alto nivel (por ejemplo Python) utilizando librerías numéricas existentes.
-* Identificar posibles problemas que surgen en la implementación de métodos numéricos y aprender a solucionarlos.
-* Mostrar al estudiante cómo es posible solucionar problemas de ingeniería de gran complejidad mediante la utilización de herramientas computacionales.
+* Explorar las herramientas computacionales, así como plataformas de cómputo modernas para la práctica de la ingeniería.
+* Desarrollar habilidades intelectuales pertinentes al desarrollo e implementación de algoritmos computacionales para la solución de problemas de ingeniería.
+* Entrenar al estudiante en la utilización de lenguajes de programación de alto nivel (por ejemplo Python) utilizando librerías numéricas existentes y plataformas interactivas de programación y exploración.
+* Mostrar al estudiante cómo es posible solucionar problemas de ingeniería de gran complejidad mediante la utilización de herramientas computacionales modernas.
 
 ## Metas de Aprendizaje ABET ##
 
@@ -42,19 +41,36 @@ k. Usar técnicas, destrezas y herramientas modernas necesarias para la práctic
 
 ## Temas del Curso ##
 
-1. Uso del computador para la solución de problemas de ingeniería, introducción a Python e IPython. Arreglos numéricos de una y más dimensiones.
-2. Modelos, Computadoras y Errores. Teorema de Taylor.
-3. Raíces de ecuaciones.
-4. Ecuaciones algebraicas lineales
-5. Ajuste de curvas.
-6. La transformada de Fourier
-7. Diferenciación e Integración numéricas.
-8. Ecuaciones diferenciales ordinarias.
-9. La Matriz
+1. Herramientas computacionales. Python (y librerías), Jupyter Notebooks, Github, etc.
+2. Datos estructurados, lectura y escritura de archivos de texto.
+3. Tipos de datos y estructuras.
+4. Graficación.
+5. Ajuste de datos.
+6. Optimización.
+7. Diferenciación numérica.
+8. Integración numérica.
+9. Ecuaciones diferenciales ordinarias.
+10. Análisis de imágenes.
+11. Reducción mediante componentes principales.
+12. Aprendizaje de máquina y clasificación.
 
 ## Calificación ##
 
+La califiación del curso se realizará a través de la acumulación de puntos. Los puntos se otorgan por el cumplimiento a satisfacción de cada uno de los siguientes requerimientos.
+
+Actividad                  | Puntos                      | Descripción
+---------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------
+Talleres (x6)              | 6 puntos (1 punto cada uno) | Talleres para el desarrollo de los temas del curso.
+Propuesta de Proyecto      | 1 punto                     | Propuesta de diseño de la solución a implementar. Debe incluir justificación, investigación preliminar, objetivos, especificaciones de desempeño.
+Proyecto                   | 2 puntos                    | Implementación del sistema propuesto.
+Asistencia y participación | 1 punto                     | A criterio del profesor.
+
+Todos los puntos se asignan de maneria binaria, es decir, no se dan puntos parciales. Cada entrega se puede hacer un máximo de tres (3) veces corrigiendo y siguiendo la retroalimentación a cada entrega.
+
+Toda entrega se hace a través de la plataforma Github.
 
 ## Referencias Bibliográficas ##
 
-1. Chapra, S.C., Canale, R. P., Métodos numéricos para ingenieros, McGraw Hill, Sexta edición, 2011. ISBN 978-607-15-0499-9
+1. [Repositorio Github Herramientas Computacionales](https://github.com/andresgm/Herramientas-Computacionales)
+2. Chapra, S.C., Canale, R. P., Métodos numéricos para ingenieros, McGraw Hill, Sexta edición, 2011. ISBN 978-607-15-0499-9
+2. Kiusalaas, J., Numerical Methods in Engineering with Python, Cambridge University Press, Second Edition, 2010.
