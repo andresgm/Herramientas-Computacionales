@@ -22,13 +22,19 @@ jupyter notebook
 ```
 
  Otro programa para trabajar con Jupyter notebooks es [nteract](https://nteract.io/).
- 
- Finalmente, [Microsoft Azure Notebooks](https://notebooks.azure.com) puede ser util si quiere trabajar en linea. 
+
+ Finalmente, [Microsoft Azure Notebooks](https://notebooks.azure.com) puede ser util si quiere trabajar en linea.
 
 # Algunos recursos para comenzar #
 
- * [Introducción a Python](http://nbviewer.jupyter.org/github/andresgm/Herramientas-Computacionales/blob/master/notebooks/00_Quick_Python_Intro.ipynb)
- * [Definición de Funciones en Python](http://nbviewer.jupyter.org/github/andresgm/Herramientas-Computacionales/blob/master/notebooks/01_Defining_Function_in_Python.ipynb)
- * [Numerical Tours in Python](http://www.numerical-tours.com/python/)
- * [Kevin Slavin - How Algorithms Shape Our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
-
+* [Kevin Slavin - How Algorithms Shape Our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
+* [Introducción a Python](http://nbviewer.jupyter.org/github/andresgm/Herramientas-Computacionales/blob/master/notebooks/00_Quick_Python_Intro.ipynb)
+* [Definición de Funciones en Python](http://nbviewer.jupyter.org/github/andresgm/Herramientas-Computacionales/blob/master/notebooks/01_Defining_Function_in_Python.ipynb)
+* [Numerical Tours in Python](http://www.numerical-tours.com/python/)
+* [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
+* [Microsoft Azure Notebooks](https://notebooks.azure.com)
+* [stack overflow](https://stackoverflow.com/)
+* [SciPy](https://www.scipy.org/)
+* [matplotlib](https://matplotlib.org/)
+* [Python For Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
+* [Python for Computational Science and Engineering](https://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
