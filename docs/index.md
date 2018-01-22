@@ -16,7 +16,7 @@ title: IMEC3602 Semestre 201820
 
 ## Descripción del Curso ##
 
-Los sistemas de cómputo se han convertido en herramientas básicas e indispensables para la práctica de la ingeniería moderna. El crecimiento de la capacidad de cómputo ha permitido el uso y desarrollo de nuevos algoritmos que están transformando cómo se hace ingeniería en el escenario mundial ofreciendo nuevos retos y oportunidades. Este es un curso exploratorio de las **herramientas computacionales** modernas relevantes a la práctica de la ingeniería.
+Los sistemas de cómputo se han convertido en herramientas básicas e indispensables para la práctica de la ingeniería moderna. El crecimiento de la capacidad de cómputo ha permitido el uso y desarrollo de nuevos **algoritmos** que están transformando el mundo y, de mayor importancia para nosotros, la forma en que se hace ingeniería ofreciendo nuevos retos y oportunidades. Este es un curso exploratorio de los **algoritmos** y las **herramientas computacionales** modernas relevantes a la práctica de la ingeniería.
 
 Este **no** es un curso de simulación computacional. Los temas del curso buscan ser relevantes para todo tipo de ingeniero.
 
@@ -47,11 +47,11 @@ k. Usar técnicas, destrezas y herramientas modernas necesarias para la práctic
 4. Graficación.
 5. Ajuste de datos.
 6. Optimización.
-7. Diferenciación numérica.
-8. Integración numérica.
+7. Diferenciación numérica e integración numérica.
 9. Ecuaciones diferenciales ordinarias.
 10. Análisis de imágenes.
 11. Reducción mediante componentes principales.
+12. Métodos estadísticos. Simulación de Monte Carlo.
 12. Aprendizaje de máquina y clasificación.
 
 ## Calificación ##
@@ -69,7 +69,7 @@ Todos los puntos se asignan de maneria binaria, es decir, no se dan puntos parci
 
 Los documentos del curso se trabajan en Jupyter notebooks subidos a Github. Toda entrega se hace a través de la plataforma Sicua Plus mediante un enlace a Github.
 
-Las especificaciones y requerimientos de las entregas se pondran en el repositorio del curso en Github y se harán anuncios en Sicua Plus.  
+Las especificaciones y requerimientos de las entregas se pondran en el repositorio del curso en Github y se harán anuncios en Sicua Plus.
 
 ## Referencias Bibliográficas ##
 
