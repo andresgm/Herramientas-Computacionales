@@ -67,7 +67,9 @@ Asistencia y participación | 1 punto                     | A criterio del profe
 
 Todos los puntos se asignan de maneria binaria, es decir, no se dan puntos parciales. Cada entrega se puede hacer un máximo de tres (3) veces corrigiendo y siguiendo la retroalimentación a cada entrega.
 
-Toda entrega se hace a través de la plataforma Github.
+Los documentos del curso se trabajan en Jupyter notebooks subidos a Github. Toda entrega se hace a través de la plataforma Sicua Plus mediante un enlace a Github.
+
+Las especificaciones y requerimientos de las entregas se pondran en el repositorio del curso en Github y se harán anuncios en Sicua Plus.  
 
 ## Referencias Bibliográficas ##
 
