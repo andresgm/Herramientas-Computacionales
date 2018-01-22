@@ -49,8 +49,8 @@ k. Usar técnicas, destrezas y herramientas modernas necesarias para la práctic
 6. Optimización.
 7. Diferenciación numérica e integración numérica.
 9. Ecuaciones diferenciales ordinarias.
-10. Análisis de imágenes.
-11. Reducción mediante componentes principales.
+10. Análisis de señales. Reducción mediante componentes principales.
+11. Análisis de imágenes.
 12. Métodos estadísticos. Simulación de Monte Carlo.
 12. Aprendizaje de máquina y clasificación.
 
