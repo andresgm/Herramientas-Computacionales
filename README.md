@@ -27,6 +27,8 @@ jupyter notebook
 
  Comenzamos la clase.
 
+ Segunda Clase.
+
 # Algunos recursos para comenzar #
 
 * [Kevin Slavin - How Algorithms Shape Our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
