@@ -1,0 +1,70 @@
+File created on 05/12/2017 @ 19:08
+
+
+[header]
+satellites
+time
+latitude
+longitude
+velocity kmh
+heading
+height
+long accel g
+lat accel g
+temperature
+battery voltage
+batt.flags
+batt.ai
+batt.soc
+
+[channel units]
+degC
+v
+
+mA
+%
+
+[comments]
+VBSp V01.01 Build 0217
+Serial Number: 7011780
+Bootloader: 01010306
+GPS kernel: 1.6.10
+       ODM: 1.10.29
+  revision: 2014.6.3
+ Nav. rate = 20
+ Nav. mode = car
+ WAAS use enabled
+ Masks = Elevation & CNR
+ Elevation mask = 7°
+ CNR mask = 35°
+ DOP Masks = Disabled
+ PDOP = 30.0 HDOP = 30.0 GDOP = 30.0
+Bluetooth 0x0000002F/0x0000F000
+ Firmware= 5.0.2.764
+ Apple enabled = Enabled
+Record size: 60
+Gas gauge manufacturer info:
+  VBOX Sport
+  Version 0007
+  Date 01-02-13
+  BQ27500-V130
+
+[column names]
+sats
+time
+lat
+long
+velocity
+heading
+height
+longacc
+latacc
+temp
+Vbat
+batt-flags
+batt-ai
+batt.soc
+
+
+[data]
+007 190804.00 +00297.755628 +04436.979468 002.60 171.99 +2586.10 -0000.00 +0000.09 +26.64 +3.459 0000459049 -166 006 
