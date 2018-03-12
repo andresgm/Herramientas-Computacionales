@@ -6,6 +6,6 @@ En Sicua+ he subido las notas de clase del profesor J. Nathan Kutz de la Univers
 
 El entregable es un cuaderno de Jupyter que cubra los temas tratados en dichas secciones de manera clara y completa. Más que la teoría matemática me interesan los ejemplos donde se muestra la utlización de las funciones de la librería Scipy para la aplicación de las técnicas mostradas en el capítulo. Debe pensar en el producto como una intruducción al análisis frecuencial utilizando Python.  
 
-En la parte final del trabajo debe incluir un ejemplo propio con alguna señal de audio que sea interesante para usted.  
+En la parte final del trabajo debe incluir un ejemplo propio con alguna señal de audio que sea interesante para usted. Lo ideal seria que en el ejemplo aplicara las técnicas estudiadas, especialmente filtrado.  
 
 Fecha de entrega: **lunes 19 de marzo antes del final del día**.  
