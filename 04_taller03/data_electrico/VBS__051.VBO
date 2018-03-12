@@ -35,8 +35,8 @@ GPS kernel: 1.6.10
  Nav. mode = car
  WAAS use enabled
  Masks = Elevation & CNR
- Elevation mask = 7°
- CNR mask = 35°
+ Elevation mask = 7ï¿½
+ CNR mask = 35ï¿½
  DOP Masks = Disabled
  PDOP = 30.0 HDOP = 30.0 GDOP = 30.0
 Bluetooth 0x0000002F/0x0000F000
@@ -67,4 +67,4 @@ batt.soc
 
 
 [data]
-007 190804.00 +00297.755628 +04436.979468 002.60 171.99 +2586.10 -0000.00 +0000.09 +26.64 +3.459 0000459049 -166 006 
+007 190804.00 +00297.755628 +04436.979468 002.60 171.99 +2586.10 -0000.00 +0000.09 +26.64 +3.459 0000459049 -166 006
