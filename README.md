@@ -1,6 +1,6 @@
 # Herramientas Computacionales
 
-Este es el repositorio del curso [Herramientas Computacionales IMEC3602 Semestre 201820](http://andresgm.org/Herramientas-Computacionales/) dictado por el [Prof. Andrés González Mancera](http://andresgm.org) en el [Departamento de Ingeniería Mecánica](http://mecanica.uniandes.edu.co) de la [Universidad de los Andes](http://www.uniandes.edu.co).
+Este es el repositorio del curso [Herramientas Computacionales IMEC3602 Semestre 201820](http://andresgm.org/Herramientas-Computacionales/) dictado por el [Prof. Andrés González Mancera](https://andresgm.org) en el [Departamento de Ingeniería Mecánica](http://mecanica.uniandes.edu.co) de la [Universidad de los Andes](http://www.uniandes.edu.co).
 
 # Instalación de Python #
 
